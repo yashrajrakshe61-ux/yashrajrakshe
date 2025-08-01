@@ -1,3 +1,17 @@
+# Hi there, I'm Yashraj Rakshe 👋
+
+Welcome to my GitHub profile!
+
+🚀 I'm passionate about Computer Science, programming, and building innovative tech solutions.
+
+🔧 Skills:
+- C/C++, Java, Python
+- Web Development (HTML, CSS, JS)
+- Data Structures & Algorithms
+
+📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/yashrajrakshe)
+
+Stay tuned for more projects!
 <!DOCTYPE html>
 <html lang="en">
 <head>
